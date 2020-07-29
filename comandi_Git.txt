@@ -1,0 +1,9 @@
+Comandi Git:
+
+- git clone [percorso del progetto Git]
+- git status    (per verificare lo stato tra client e server)
+- git add -A .  (tenere traccia dei file modificati, aggiunti o cancellati) (il punto sta a significare dalla cartella corrente in giù)
+- git commit -m ["commento..."]     (prepara il pacchetto da mandare al server, con un commento opzionale)
+- git push  (pubblica sul server)
+- git pull  (scarica in locale quello che c'è sul server)
+
