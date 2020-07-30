@@ -7,3 +7,10 @@ Comandi Git:
 - git push  (pubblica sul server)
 - git pull  (scarica in locale quello che c'è sul server)
 
+
+git clone: ​​crea una copia locale di un telecomando.
+git remote -v: elenca i telecomandi di un progetto Git.
+git fetch: recupera il lavoro dal telecomando nella copia locale.
+git merge origin / master: unisce origin / master al ramo locale.
+git push origin branch_name: invia un ramo locale al telecomando di origine.
+
